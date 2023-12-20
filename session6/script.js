@@ -298,5 +298,5 @@ abhinav.addFriend("ankansha");
 
 console.log(utkarshUser, abhinav);
 
-const mutual = utkarshUser.findMutualsWith(abhinav); // RULE 2
-console.log(mutual);
+const mutual = utkarshUser.findMutualsWith(abhinav); // RULE 2 // call site
+// console.log(mutual);
